@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DATA%20SCIENCE/FSDS%20-%20May%2022/MLflow-basic-demo/mlruns/0/b323eecb8e1249ee8ecdb3b1a4b3b5a7/artifacts
+end_time: 1687777675809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b323eecb8e1249ee8ecdb3b1a4b3b5a7
+run_name: invincible-koi-200
+run_uuid: b323eecb8e1249ee8ecdb3b1a4b3b5a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687777673079
+status: 3
+tags: []
+user_id: vinit
